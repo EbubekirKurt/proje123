@@ -32,7 +32,7 @@ class MyHomePage extends StatelessWidget {
           children: [
             // Add a decorative image (replace with your image asset)
             Image.asset(
-              'assets/images/pills.png',
+              'assets/images/white.jpg',
               width: 150,
               height: 150,
             ),
